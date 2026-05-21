@@ -1,5 +1,6 @@
 nginx
 #支持私库
-calciumion/new-api:v1.0.0-rc.6
+# calciumion/new-api:v1.0.0-rc.6
+eceasy/cli-proxy-api:v7.1.19
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
