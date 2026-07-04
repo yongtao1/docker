@@ -1,7 +1,9 @@
-nginx
+#nginx
 #支持私库
 # calciumion/new-api:v1.0.0-rc.6
-eceasy/cli-proxy-api:v7.1.19
+#eceasy/cli-proxy-api:v7.1.19
+snowdreamtech/frps:0.62.1
+snowdreamtech/frpc:0.62.1
 #支持指定架构
---platform=linux/arm64 snowdreamtech/frps:0.62.1
---platform=linux/arm64 snowdreamtech/frpc:0.62.1
+#--platform=linux/arm64 snowdreamtech/frps:0.62.1
+#--platform=linux/arm64 snowdreamtech/frpc:0.62.1
