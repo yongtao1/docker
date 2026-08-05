@@ -4,6 +4,9 @@
 #eceasy/cli-proxy-api:v7.1.19
 snowdreamtech/frps:0.62.1
 snowdreamtech/frpc:0.62.1
+
+quay.nju.edu.cn/ascend/vllm-ascend:DeepSeekV4-flash-0731
+
 #支持指定架构
 #--platform=linux/arm64 snowdreamtech/frps:0.62.1
 #--platform=linux/arm64 snowdreamtech/frpc:0.62.1
