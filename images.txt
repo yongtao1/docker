@@ -6,7 +6,8 @@ snowdreamtech/frps:0.62.1
 snowdreamtech/frpc:0.62.1
 
 #quay.nju.edu.cn/ascend/vllm-ascend:DeepSeekV4-flash-0731
-vllm/vllm-openai:glm53-flash
+#vllm/vllm-openai:glm53-flash
+vllm/vllm-openai:qwen38-flash-next
 
 #支持指定架构
 #--platform=linux/arm64 snowdreamtech/frps:0.62.1
